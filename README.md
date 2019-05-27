@@ -1,1 +1,1 @@
-vibratetypes
+vibration types
